@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Nong Duc Huyy",
+      "gender": "Nu",
+      "birthdate": "24-10-2001",
+      "image": "https://www.shutterstock.com/image-vector/people-icon-vector-person-sing-260nw-707883430.jpg",
+      "isPermanent": true,
+      "information": "Doanh nhân là người giải quyết các vấn đề cho người khác để kiếm lợi nhuận. Ở Việt Nam, doanh nhân là một từ được các phương tiện truyền thông sử dụng để xác định một tầng lớp gắn với thành phần kinh tế tư nhân và chủ nghĩa tư bản xuất hiện từ sau những năm 1990.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Nguyen van nam",
+      "gender": "Nam",
+      "birthdate": "30-4-2003",
+      "isPermanent": true,
+      "image": "https://www.shutterstock.com/image-vector/people-icon-vector-person-sing-260nw-707883430.jpg",
+      "information": "Người lao động, người làm công, người làm thuê, người thợ hay nhân công là người làm công ăn lương, đóng góp lao động và chuyên môn để nỗ lực tạo ra sản phẩm cho người sử dụng lao động và thường được thuê với hợp đồng làm việc (giao kèo) để thực hiện các nhiệm vụ cụ thể được đóng gói vào một công việc hay chức năng."
+    },
+    {
+      "name": "Tran Thi Dao",
+      "gender": "Nu",
+      "birthdate": "22-10-2003",
+      "image": "https://www.shutterstock.com/image-vector/people-icon-vector-person-sing-260nw-707883430.jpg",
+      "isPermanent": false,
+      "information": "LGBT là cụm từ viết tắt của các cụm từ tiếng anh như: Lesbian (đồng tính nữ), Gay (đồng tính nam), Bisexual (người song tính/lưỡng tính) và Transgender (người chuyển giới). Đây đều là những người thuộc cộng đồng người có xu hướng tính dục khác với dị tính",
+      "id": "17a0"
+    },
+    {
+      "name": "Ho Ngoc Ha",
+      "gender": "Nu",
+      "birthdate": "24-5-2000",
+      "image": "https://www.shutterstock.com/image-vector/people-icon-vector-person-sing-260nw-707883430.jpg",
+      "isPermanent": false,
+      "information": "LGBTQ+ cũng tương tự như LGBT nhưng có thêm cụm Queer tức là người có xu hướng tính dục đặc biệt, không nhận định được bản thân thuộc bất cứ giới nào. Hoặc là Questioning là những người đang trong giai đoạn tìm kiếm xu hướng tính dục của bản thân.",
+      "id": "01cf"
+    }
+  ]
+}
